@@ -1,4 +1,13 @@
 <!-- .slide: data-background="#000000" -->
+![logo GNDEC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdS_BVyavNfOxWOzZP5HeTACIg5i9mxuuY3eVUZNGKWg&s)
+### Implemntation of Education Domain in GNDEC.
+Submitted to                            Submitted By
+Prof.Sandeep Kumar Singla               Deepak Kumar
+                                        CRN/URN: 1921023/1905322
+
+
+
+<!-- .slide: data-background="#000000" -->
 ## What is Frappe?
 
 Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework written in Python and JavaScript with MariaDB as the database.
@@ -46,3 +55,15 @@ You can have your entire Student Database, Fee Structure, Staffing Information, 
 - Attendance
 - Assessment 
 - Tools
+
+
+
+## Future Scope
+- Automation of complete activities.
+- Advances in technology – teaching and learning patterns.
+- Customization and personalization
+- Better communication
+
+
+
+## Thank You
