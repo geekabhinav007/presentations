@@ -1,9 +1,9 @@
 <!-- .slide: data-background="#000000" -->
 ![logo GNDEC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdS_BVyavNfOxWOzZP5HeTACIg5i9mxuuY3eVUZNGKWg&s)
 ### Implemntation of Education Domain in GNDEC.
-Submitted to                            Submitted By
-Prof.Sandeep Kumar Singla               Deepak Kumar
-                                        CRN/URN: 1921023/1905322
+<br>
+**Submitted to** <br>                        
+Prof.Sandeep Kumar Singla              
 
 
 
@@ -58,6 +58,7 @@ You can have your entire Student Database, Fee Structure, Staffing Information, 
 
 
 
+<!-- .slide: data-background="#000000" -->
 ## Future Scope
 - Automation of complete activities.
 - Advances in technology – teaching and learning patterns.
@@ -65,5 +66,5 @@ You can have your entire Student Database, Fee Structure, Staffing Information, 
 - Better communication
 
 
-
+<!-- .slide: data-background="#000000" -->
 ## Thank You
