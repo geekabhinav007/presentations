@@ -17,6 +17,9 @@ Java is one of the most popular programming languages. Java's slogan is "Write o
 <!-- .slide: data-background="#000000" -->
 ## First Java Code
 
+- System.out.println() is used to print in java and each line in java is terminated by `;` semicolon.
+- S of `System.out.println();` is capital.
+- Java is case-Sensetive Language.
 ```java
 public class Program
 {
