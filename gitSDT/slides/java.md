@@ -34,9 +34,16 @@ public class Program
 
 <!-- .slide: data-background="#000000" -->
 
-## Academic Portal
+## Java Basics
 
-![Academic Portal](https://gne2.gndec.ac.in/~hsrai/PanDoc/EB/Pictures/10000000000005030000035F9BEECDB52ECB12A3.png)
+- In Java, every line of code that can actually run needs to be inside a class. You can call the class anything you want.
+
+- In Java, each application has an entry point, or a starting point, which is a method called main.
+
+```java
+public static void main(String[] args) {
+```
+- 
 
 
 
