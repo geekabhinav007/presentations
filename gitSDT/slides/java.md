@@ -1,7 +1,7 @@
 <!-- .slide: data-background="#000000" -->
 ## Java Tutorial
 
-## BY
+## by
 
 ## Kumar Abhinav
 
@@ -12,9 +12,20 @@
 
 Java is one of the most popular programming languages. Java's slogan is "Write once, run anywhere". Java programs can run on different platforms, including mobile, desktop, and other portable systems. You can use Java to build apps, games, banking applications, web apps, and much more!
 
+
+
 <!-- .slide: data-background="#000000" -->
-## Academic portal for students
-[https://academics.gndec.ac.in](https://academics.gndec.ac.in)
+## First Java Code
+
+```java
+public class Program
+{
+    public static void main(String[] args) {
+		System.out.println("Welcome to the world of coding");
+		System.out.println("Write Once, run Anywhere!");
+	}
+}
+```
 
 
 
