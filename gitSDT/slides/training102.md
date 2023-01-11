@@ -27,6 +27,7 @@ Any Fool can write a code that computer can Understand. Good Programmer write co
 
 <!-- .slide: data-background="#000000" -->
 ## Array
+An array is a collection of items of same data type stored at contiguous memory locations. 
 ![Array](https://miro.medium.com/max/1400/1*X0Dg7QfSYtWhSAu-afi8-g.png)
 
 
@@ -65,12 +66,15 @@ Any Fool can write a code that computer can Understand. Good Programmer write co
 
 <!-- .slide: data-background="#000000" -->
 ## Strings
+Strings are defined as an array of characters. The difference between a character array and a string is the string is terminated with a special character ‘\0’.
 - KMP algorithm
 
 
 
 <!-- .slide: data-background="#000000" -->
 ## Linked List
+A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations.
+![ll](https://www.simplilearn.com/ice9/free_resources_article_thumb/Linked-List-Soni/singly-linked-list.png) 
 - Circular
 - Doubly
 
@@ -78,12 +82,15 @@ Any Fool can write a code that computer can Understand. Good Programmer write co
 
 <!-- .slide: data-background="#000000" -->
 ## Stack
+A Stack is a linear data structure that follows the LIFO (Last-In-First-Out) principle. Stack has one end, whereas the Queue has two ends (front and rear). It contains only one pointer top pointer pointing to the topmost element of the stack. Whenever an element is added in the stack, it is added on the top of the stack, and the element can be deleted only from the stack. In other words, a stack can be defined as a container in which insertion and deletion can be done from the one end known as the top of the stack.
+![Stack](https://cdn.programiz.com/sites/tutorial2program/files/stack.png)
 
 
 
 <!-- .slide: data-background="#000000" -->
 ## Queue
-
+A Queue is defined as a linear data structure that is open at both ends and the operations are performed in First In First Out (FIFO) order.
+![que](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221213113312/Queue-Data-Structures.png)
 
 
 <!-- .slide: data-background="#000000" -->
@@ -116,3 +123,18 @@ Any Fool can write a code that computer can Understand. Good Programmer write co
 - Concepts of Backtracking
 - Rat In a Maze
 - N Queen Problem
+
+
+
+<!-- .slide: data-background="#000000" -->
+## Projects
+- Metro Program
+- Basic Notepad
+
+
+<!-- .slide: data-background="#000000" -->
+## Metro Program
+
+
+<!-- .slide: data-background="#000000" -->
+## Basic Notepad
