@@ -4,8 +4,9 @@
 ### Data Structures and Algorithms
 
 <br>
-**Submitted to** <br>
-Dr. Sandeep Kumar Singla
+**Submitted By** <br>
+Kumar Abhinav<br>
+URN :- 2004825
 
 
 
@@ -94,10 +95,12 @@ A Queue is defined as a linear data structure that is open at both ends and the 
 ![que](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221213113312/Queue-Data-Structures.png)
 
 
+
 <!-- .slide: data-background="#000000" -->
 ## Tree
 A tree data structure is a non-linear data structure because it does not store in a sequential manner.
 ![tree](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefTPtkzQBSBr27l7y3gcq-TiHWi-0kdjw9Q&usqp=CAU)
+
 
 
 <!-- .slide: data-background="#000000" -->
@@ -148,9 +151,21 @@ Backtracking is an algorithmic technique for solving problems recursively by try
 
 <!-- .slide: data-background="#000000" -->
 ## Metro Program
+
 ![metro](https://d3i71xaburhd42.cloudfront.net/32d357b3399ae2ea0f72893a14d772677ecc04c4/1-Figure1-1.png)
+
+
+This is a simple Java program that will take information (name) of the source station and
+the destination station, of Delhi Metro, from the user and display the fare and shortest
+metro route to reach the destination. It will also be having a metro map for commuter’s
+better navigation.
+
 
 
 <!-- .slide: data-background="#000000" -->
 ## Basic Notepad
+This is a simple text editing application in Python, which supports the basic text operations
+like Cut, Copy, Paste, Undo, Redo, and also basic file operations like New, Save, and Open.
+It has some great features like Unlimited Undo and Redo Operations, Night-mode. This
+was developed for exploring the Python GUI and to enhance my DSA skills.
 ![notepad](https://raw.githubusercontent.com/chavarera/MY-NOTEPAD/master/mainicon.ico)
