@@ -17,23 +17,26 @@ Dr. Sandeep Kumar Singla
 
 Any Fool can write a code that computer can Understand. Good Programmer write code that human can understand.
 
+
+
 ## Algorithms!!!
 
 
 
 ## Array
+![Array](https://miro.medium.com/max/1400/1*X0Dg7QfSYtWhSAu-afi8-g.png)
 
 
 
 ## Searching
-
+![Searching](https://judicialappointments.gov.uk/wp-content/uploads/2020/07/searching-768x758-3.png)
 - Binary Search
 - Linear Search
 
 
 
 ## Sorting
-
+![sorting](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4fAeibeqwTyOC9tavxUoV3CRXc0GfF7N7gmwBoxcpmB9VEX1o2Nx81MOdY73Xt2bGVAU&usqp=CAU)
 - Quick Sort (nlogn)(0)
 - Merge Sort (nlogn)(1)
 - Heap Sort  (nlogn)(0)
@@ -44,10 +47,12 @@ Any Fool can write a code that computer can Understand. Good Programmer write co
 
 
 ## Time and Space Complexity
+![Time Complexity](https://adrianmejia.com/images/time-complexity-examples.png)
 
 
 
 ## Hashing
+![hash](https://miro.medium.com/max/960/1*O0cagAfoMqIu79Yh-FKVnQ.jpeg)
 
 
 
@@ -59,6 +64,7 @@ Any Fool can write a code that computer can Understand. Good Programmer write co
 ## Linked List
 - Circular
 - Doubly
+
 
 
 ## Stack
