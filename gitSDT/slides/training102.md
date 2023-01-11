@@ -41,3 +41,57 @@ Any Fool can write a code that computer can Understand. Good Programmer write co
 - Selection Sort (n2)(0)
 - Shell Sort (nlogn)(0)
 - Bubble Sort (n)(1) e.t.c
+
+
+## Time and Space Complexity
+
+
+
+## Hashing
+
+
+
+## Strings
+- KMP algorithm
+
+
+
+## Linked List
+- Circular
+- Doubly
+
+
+## Stack
+
+
+
+## Queue
+
+
+
+## Tree
+
+
+
+## Graphs
+- Prims
+- Kruskals
+- Dijkstra
+- Bellman-Ford
+- Tarjan’s Algorithm
+
+
+
+## Greedy Algorithms
+
+- Activity Selection Problem
+- Fractional Knapsack Problem
+- Job Sequencing Problem
+
+
+
+## Recursion and Backtracking
+
+- Concepts of Backtracking
+- Rat In a Maze
+- N Queen Problem
