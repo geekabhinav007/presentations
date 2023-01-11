@@ -19,3 +19,25 @@ Any Fool can write a code that computer can Understand. Good Programmer write co
 
 ## Algorithms!!!
 
+
+
+## Array
+
+
+
+## Searching
+
+- Binary Search
+- Linear Search
+
+
+
+## Sorting
+
+- Quick Sort (nlogn)
+- Merge Sort (nlogn)
+- Heap Sort  (nlogn)
+- Insertion Sort (n)
+- Slection Sort (n2)
+- Shell Sort (nlogn)
+- Bubble Sort (n)e.t.c
