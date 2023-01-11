@@ -1,5 +1,5 @@
 <!-- .slide: data-background="#000000" -->
-![logo GNDEC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdS_BVyavNfOxWOzZP5HeTACIg5i9mxuuY3eVUZNGKWg&s)
+![DSA](https://www.programiz.com/blog/content/images/2020/06/graph-algorithm-3.png)
 
 ### Data Structures and Algorithms
 
@@ -11,6 +11,7 @@ Dr. Sandeep Kumar Singla
 
 <!-- .slide: data-background="#000000" -->
 ## What is Data Structures?
+A data structure is a method of organizing data in a virtual system.
 
 
 <!-- .slide: data-background="#000000" -->
@@ -22,7 +23,7 @@ Any Fool can write a code that computer can Understand. Good Programmer write co
 
 <!-- .slide: data-background="#000000" -->
 ## Algorithms!!!
-
+An algorithm is a sequence of steps executed by a computer that takes an input and transforms it into a target output. 
 
 
 <!-- .slide: data-background="#000000" -->
@@ -95,11 +96,19 @@ A Queue is defined as a linear data structure that is open at both ends and the 
 
 <!-- .slide: data-background="#000000" -->
 ## Tree
-
+A tree data structure is a non-linear data structure because it does not store in a sequential manner.
+![tree](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefTPtkzQBSBr27l7y3gcq-TiHWi-0kdjw9Q&usqp=CAU)
 
 
 <!-- .slide: data-background="#000000" -->
 ## Graphs
+
+A Graph is a non-linear data structure consisting of vertices and edges. The vertices are sometimes also referred to as nodes and the edges are lines or arcs that connect any two nodes in the graph.
+
+![graph](https://lh3.googleusercontent.com/GgdrerjuJn5yEdJW5LMbfHniHoNc2iEoe0k6XM44giFCbhyYn-3L6IpDaP-74ujaMeMz3YwYrOdjMo4aZzAYR2sRtCSH4MWpYiqCDu3JtFnYz00Dx4FNAnCclw-0gKZZsAjFv2pQ)
+
+
+<!-- .slide: data-background="#000000" -->
 - Prims
 - Kruskals
 - Dijkstra
@@ -111,6 +120,8 @@ A Queue is defined as a linear data structure that is open at both ends and the 
 <!-- .slide: data-background="#000000" -->
 ## Greedy Algorithms
 
+Greedy is an algorithmic paradigm that builds up a solution piece by piece, always choosing the next piece that offers the most obvious and immediate benefit. So the problems where choosing locally optimal also leads to global solution are the best fit for Greedy.
+
 - Activity Selection Problem
 - Fractional Knapsack Problem
 - Job Sequencing Problem
@@ -120,7 +131,10 @@ A Queue is defined as a linear data structure that is open at both ends and the 
 <!-- .slide: data-background="#000000" -->
 ## Recursion and Backtracking
 
-- Concepts of Backtracking
+Backtracking is an algorithmic technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point in time (by time, here, is referred to the time elapsed till reaching any level of the search tree).  Backtracking can also be said as an improvement to the brute force approach. So basically, the idea behind the backtracking technique is that it searches for a solution to a problem among all the available options.
+
+
+<!-- .slide: data-background="#000000" -->
 - Rat In a Maze
 - N Queen Problem
 
@@ -134,7 +148,9 @@ A Queue is defined as a linear data structure that is open at both ends and the 
 
 <!-- .slide: data-background="#000000" -->
 ## Metro Program
+![metro](https://d3i71xaburhd42.cloudfront.net/32d357b3399ae2ea0f72893a14d772677ecc04c4/1-Figure1-1.png)
 
 
 <!-- .slide: data-background="#000000" -->
 ## Basic Notepad
+![notepad](https://raw.githubusercontent.com/chavarera/MY-NOTEPAD/master/mainicon.ico)
