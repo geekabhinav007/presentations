@@ -34,10 +34,10 @@ Any Fool can write a code that computer can Understand. Good Programmer write co
 
 ## Sorting
 
-- Quick Sort (nlogn)
-- Merge Sort (nlogn)
-- Heap Sort  (nlogn)
-- Insertion Sort (n)
-- Slection Sort (n2)
-- Shell Sort (nlogn)
-- Bubble Sort (n)e.t.c
+- Quick Sort (nlogn)(0)
+- Merge Sort (nlogn)(1)
+- Heap Sort  (nlogn)(0)
+- Insertion Sort (n)(1)
+- Selection Sort (n2)(0)
+- Shell Sort (nlogn)(0)
+- Bubble Sort (n)(1) e.t.c
