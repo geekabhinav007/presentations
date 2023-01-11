@@ -148,6 +148,8 @@ Backtracking is an algorithmic technique for solving problems recursively by try
 - Metro Program
 - Basic Notepad
 
+[Github Repo Link for Both project](https://github.com/geekabhinav007/training102-project-)
+
 
 <!-- .slide: data-background="#000000" -->
 ## Metro Program
